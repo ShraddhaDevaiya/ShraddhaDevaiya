@@ -1,5 +1,9 @@
+
 ### Hi there 👋
 
+#### To be a programmer is to develop a carefully managed relationship with error. There's no getting around it. You either make your accommodations with failure, or the work will become intolerable.
+
+[![HitCount](http://hits.dwyl.com/ShraddhaDevaiya/ShraddhaDevaiya.svg)](http://hits.dwyl.com/ShraddhaDevaiya/ShraddhaDevaiya)
 <!--
 **ShraddhaDevaiya/ShraddhaDevaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
